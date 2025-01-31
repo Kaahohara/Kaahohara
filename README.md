@@ -11,6 +11,20 @@
 - GitHub, GitLab, Bitbucket
 - Docker, Postman
   <br><br>
+  ## 🚀 Meu Portfólio e Projetos
+
+Aqui estão alguns dos meus projetos mais recentes e o link para o meu portfólio online:
+
+### 🔧 **Projetos Recentes**
+- **[Sistema Web de Turismo](https://kaahohara.github.io/NewZealand/)**  
+  Um sistema web desenvolvido em React e Tailwind sobre o turismo na Nova Zelândia.
+
+### 🌐 **Portfólio Online**
+- **[Visite meu Portfólio](https://kaahohara.github.io/portifolio/)**  
+  Acesse o portfólio completo com todos os projetos e detalhes sobre minha experiência profissional e acadêmica.
+
+Estou sempre aberta a colaborar em projetos interessantes, então fique à vontade para entrar em contato!
+
 ## Skills:
   <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
   <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
